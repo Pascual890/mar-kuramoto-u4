@@ -200,10 +200,25 @@ K medio vuelve despacio y dudando. Eso no lo hace un temporizador.
   cambio al modelo. Por ahora con dos extensiones ya cumplo y las puedo
   sustentar, así que no quiero meter más sin tener clara la intención.
 
-## Nota sobre el uso de IA
+---
 
-Usé IA durante todo el proceso para escribir código y para probar ideas rápido.
-Las decisiones de qué construir, qué descartar y qué modificarle al modelo las
-tomé yo: de hecho boté dos proyectos completos (el campo de celdas y el túnel)
-porque no me convencían, y los valores de las especies los elegí comparando
-resultados con los scripts de prueba, no porque me los sugirieran.
+## 10. Autoevaluación
+
+1. Leí y verifiqué que mi proyecto cumple con los requisitos mínimos de la
+   unidad (25 puntos). Son 12 agentes, 4 especies, 4 variables en vivo
+   (incluida K), interacción global e individual, tres perturbaciones y los
+   tres estados con indicador. **Nota: 5**
+2. Puedo explicar claramente qué representa cada variable del modelo de
+   Kuramoto en mi proyecto (25 puntos). θᵢ es el punto del salto, ωᵢ el tempo
+   natural, K cuánto se miran, y también gᵢ, αᵢ, ρᵢ y σ de las extensiones.
+   **Nota: 5**
+3. Puedo explicar claramente cómo las variables del modelo producen el
+   comportamiento observado en mi proyecto (25 puntos). Lo explico con la
+   ecuación y lo muestro en vivo con la tecla B. Me falta documentar mejor
+   cómo cambian los umbrales de K cuando las especies están activas.
+   **Nota: 4**
+4. Puedo demostrar que mi proyecto cumple con los objetivos establecidos en la
+   unidad (25 puntos). Toco un animal, el grupo se descoloca y lo reabsorbe
+   solo, y eso un reloj no lo hace. **Nota: 5**
+
+**Promedio: 4.75 / 5** (equivale a 95 de 100 puntos)
