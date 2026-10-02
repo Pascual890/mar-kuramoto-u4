@@ -1,5 +1,5 @@
 # Bitácora U4 · Mar de Kuramoto
-
+.
 Acá voy anotando por lo que pasé para llegar al proyecto. Varias de las entradas
 son cosas que descarté, pero las dejo porque fue lo que me hizo entender qué
 estaba buscando.
